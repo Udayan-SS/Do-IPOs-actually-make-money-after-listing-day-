@@ -1,0 +1,8 @@
+
+pandas
+numpy
+yfinance
+openpyxl
+matplotlib
+notebook
+requests
