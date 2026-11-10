@@ -1,0 +1,4 @@
+SYMBOL,STATUS CODE,ERROR
+ACI,404,"{""error"":""not_found"",""symbol"":""ACI"",""message"":""No IPO subscription data for that symbol. Query by NSE symbol (e.g. ?symbol=ZOMATO) or by slug, or call /api/v1/subscription with no arguments for the fu"
+HMAAGRO,404,"{""error"":""not_found"",""symbol"":""HMAAGRO"",""message"":""No IPO subscription data for that symbol. Query by NSE symbol (e.g. ?symbol=ZOMATO) or by slug, or call /api/v1/subscription with no arguments for th"
+STYLEBAAZA,404,"{""error"":""not_found"",""symbol"":""STYLEBAAZA"",""message"":""No IPO subscription data for that symbol. Query by NSE symbol (e.g. ?symbol=ZOMATO) or by slug, or call /api/v1/subscription with no arguments for"
