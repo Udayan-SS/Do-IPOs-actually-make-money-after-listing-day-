@@ -62,6 +62,26 @@ For 6-month and 12-month returns, the first available trading-day closing price 
 1. IPO Market Overview
 2. Post-Listing Performance
 3. Subscription & Sector Analysis
+4. IPO vs Nifty 50 Benchmark Analysis
+
+
+## 📊 Dashboard Preview
+
+### 1. IPO Market Overview
+
+![IPO Market Overview](Dashboard/01_market_overview.png)
+
+### 2. Post-Listing Performance
+
+![Post-Listing Performance](Dashboard/02_post_listing_performance.png)
+
+### 3. IPO Subscription & Sector Analysis
+
+![IPO Subscription & Sector Analysis](Dashboard/03_subscription_sector_analysis.png)
+
+### 4. IPO vs Nifty 50 Benchmark Analysis
+
+![IPO vs Nifty 50](Dashboard/04_ipo_vs_nifty50.png)
 
 ## Key Findings
 - Average return from issue price was 17.53% on listing day.
